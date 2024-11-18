@@ -1,0 +1,19 @@
+﻿@using company.Services.Dto
+@model DepartmentDto
+<form asp-action="Delete" method="post">
+    <div class="form-group">
+        <label asp-for="codde" class="col-form-label"></label>
+        <input readonly asp-for="codde" class="form-control" />
+        <span asp-validation-for="codde" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Name" class="col-form-label"></label>
+        <input readonly asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div>
+        <input type="hidden" name="ID" value="@Model.ID" />
+    </div>
+    <input type="submit" value="Delete" class="btn btn-danger"/>
+    <a asp-controller="Department" asp-action="Index" class="btn btn-light">Back To List</a>
+</form>

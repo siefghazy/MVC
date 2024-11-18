@@ -1,0 +1,16 @@
+﻿@using company.Services.Dto
+@model DepartmentDto
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="codde" class="col-form-label"></label>
+        <input asp-for="codde" class="form-control" />
+        <span asp-validation-for="codde" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Name" class="col-form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <input type="submit" value="Save" class="btn btn-primary" />
+    <a asp-controller="Department" asp-action="Index" class="btn btn-light">Back To List</a>
+</form>
