@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\mvc\company.Repo\bin\Debug\net8.0\company.Repo.deps.json
+C:\Users\Administrator\Desktop\mvc\company.Repo\bin\Debug\net8.0\company.Repo.runtimeconfig.json
+C:\Users\Administrator\Desktop\mvc\company.Repo\bin\Debug\net8.0\company.Repo.dll
+C:\Users\Administrator\Desktop\mvc\company.Repo\bin\Debug\net8.0\company.Repo.pdb
+C:\Users\Administrator\Desktop\mvc\company.Repo\bin\Debug\net8.0\compant.Data.dll
+C:\Users\Administrator\Desktop\mvc\company.Repo\bin\Debug\net8.0\compant.Data.pdb
+C:\Users\Administrator\Desktop\mvc\company.Repo\obj\Debug\net8.0\company.Repo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\mvc\company.Repo\obj\Debug\net8.0\company.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\mvc\company.Repo\obj\Debug\net8.0\company.Repo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\mvc\company.Repo\obj\Debug\net8.0\company.Repo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\mvc\company.Repo\obj\Debug\net8.0\company.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\mvc\company.Repo\obj\Debug\net8.0\company..F9B5EC59.Up2Date
+C:\Users\Administrator\Desktop\mvc\company.Repo\obj\Debug\net8.0\company.Repo.dll
+C:\Users\Administrator\Desktop\mvc\company.Repo\obj\Debug\net8.0\refint\company.Repo.dll
+C:\Users\Administrator\Desktop\mvc\company.Repo\obj\Debug\net8.0\company.Repo.pdb
+C:\Users\Administrator\Desktop\mvc\company.Repo\obj\Debug\net8.0\company.Repo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\mvc\company.Repo\obj\Debug\net8.0\ref\company.Repo.dll
