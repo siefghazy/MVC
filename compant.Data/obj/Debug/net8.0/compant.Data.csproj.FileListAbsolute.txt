@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\mvc\compant.Data\bin\Debug\net8.0\compant.Data.deps.json
+C:\Users\Administrator\Desktop\mvc\compant.Data\bin\Debug\net8.0\compant.Data.runtimeconfig.json
+C:\Users\Administrator\Desktop\mvc\compant.Data\bin\Debug\net8.0\compant.Data.dll
+C:\Users\Administrator\Desktop\mvc\compant.Data\bin\Debug\net8.0\compant.Data.pdb
+C:\Users\Administrator\Desktop\mvc\compant.Data\obj\Debug\net8.0\compant.Data.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\mvc\compant.Data\obj\Debug\net8.0\compant.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\mvc\compant.Data\obj\Debug\net8.0\compant.Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\mvc\compant.Data\obj\Debug\net8.0\compant.Data.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\mvc\compant.Data\obj\Debug\net8.0\compant.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\mvc\compant.Data\obj\Debug\net8.0\compant.Data.dll
+C:\Users\Administrator\Desktop\mvc\compant.Data\obj\Debug\net8.0\refint\compant.Data.dll
+C:\Users\Administrator\Desktop\mvc\compant.Data\obj\Debug\net8.0\compant.Data.pdb
+C:\Users\Administrator\Desktop\mvc\compant.Data\obj\Debug\net8.0\compant.Data.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\mvc\compant.Data\obj\Debug\net8.0\ref\compant.Data.dll
